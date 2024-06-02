@@ -11,7 +11,7 @@ keyboard output port is 80h and keyboard input port is 81h.
 ![Screenshot (3)](https://github.com/tamaraatanasova/8086-Zadaca2/blob/main/2.3.png)
 ![Screenshot (4)](https://github.com/tamaraatanasova/8086-Zadaca2/blob/main/2.4.png)
 
-
+![Screenshot (5)](https://github.com/tamaraatanasova/8086-Zadaca2/blob/main/8086za2.png)
 [Tamara Atanasova ](https://github.com/tamaraatanasova)
 
 **Subject**
